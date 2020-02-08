@@ -39,3 +39,12 @@ I have no work expirience in web or software development.
 * 2013–2014 – Donetsk National Technical University, Faculty of Electrical Engineering, Specialty Electrical drive and automation of industrial installations, Bachelor Degree course
 * 2014–2017 – Donetsk National Technical University, German Technical Faculty, Specialty Program control systems and mechatronics, Bachelor Degree course
 * 2017–2019 – Donetsk National Technical University, Faculty of Electrical Engineering, Specialty Microprocessor control systems of renewables, Master’s Degree course
+
+-------------
+## Education
+
+* Languages
+Russian – mother-tongue
+Ukrainian – mother-tongue
+English – Intermediate
+German – B1
