@@ -26,3 +26,15 @@ My main goal is to improve my knowledge of HTML, JavaScript. I want to gain new 
 * Operating systems – Windows XP, 7, 8, 10, Android
 * Development environments – Simotion Scout
 * Programming languages – C/C++
+-------------
+## Experience
+I have no work expirience in web or software development.
+
+-------------
+
+## Education
+
+* Bachelor – Donetsk National Technical University (2013–2017)
+* Specialty – Program control systems and mechatronics
+* Master – Donetsk National Technical University (2017-2019)
+* Specialty – Microprocessor control systems of renewables
